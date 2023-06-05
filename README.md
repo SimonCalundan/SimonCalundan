@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm a 22 year-old Danish frontend software engineering student with a strong passion for developing websites with great user experiences.<br><br>I'm currently studying Multimedia design at Erhversakademi Aarhus, where I'm studying UX/UI, Design and Web development.
 
 
