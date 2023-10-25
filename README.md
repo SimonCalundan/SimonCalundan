@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Studying Multimedia Design at BAAA | Frontend Developer at Cernel<br><br>I work as a Frontend Developer at Cernel while pursuing studies in Multimedia Design at Business Academy Aarhus. My expertise lies in JavaScript development, and I specialize in creating user-friendly web experiences. I primarily develop applications using React.js and the framework Next.js. I also have experience with industry-standard UI libraries and CSS frameworks, including MUI and Tailwind CSS.<br>
 
 
