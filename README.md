@@ -1,5 +1,5 @@
 # About Me:
-Studying Computer Science at Business Academy Aarhus | Frontend Developer at Cernel
+Studying Computer Science at Business Academy Aarhus 
 
 
 ## 🌐 Socials:
