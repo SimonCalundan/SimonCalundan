@@ -5,5 +5,5 @@
 	</picture>
 </h1>
 
-Junior Systems Engineer at Scopito | Former Co-founder at Cernel | Studying Computer Science at Business Academy Aarhus
+Junior Systems Engineer at Scopito, working with Java, Go, and distributed systems. I combine hands-on backend engineering with an entrepreneurial background as former co-founder of Cernel. Currently studying Computer Science at Business Academy Aarhus while continuously growing as a developer.
 
