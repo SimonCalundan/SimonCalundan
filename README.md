@@ -7,3 +7,4 @@
 
 Junior Systems Engineer at Scopito, working with Java, Go, and distributed systems. I combine hands-on backend engineering with an entrepreneurial background as former co-founder of Cernel. Currently studying Computer Science at Business Academy Aarhus while continuously growing as a developer.
 
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
