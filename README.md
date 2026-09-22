@@ -9,4 +9,3 @@ Junior Systems Engineer at Scopito, working with Java, Go, and distributed syste
 
 ![Simon_Status](https://img.shields.io/uptimerobot/ratio/m792420367-f091e387ec222bcb6558559a) [![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=plastic&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
-gator
